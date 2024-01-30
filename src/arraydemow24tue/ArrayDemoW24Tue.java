@@ -7,7 +7,7 @@ package arraydemow24tue;
 import java.util.Scanner;
 
 /**
- *
+ *comments
  * @author Ronak
  */
 public class ArrayDemoW24Tue {
